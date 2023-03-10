@@ -20,13 +20,15 @@
 
 ### 💪 보유 기술
 
-- [Figma, Advanced Level]
-- []
+- [Figma, Intermediate Level]
+- [Solid Works, Intermediate Level]
 - [기술3]
 
 ### 🏆 수상 및 인증
 
-- [수상/인증 명], [수상/인증 기관], [수상/인증 연도]
+- [Juno Challenge 3rd Prize], [HACKATOM 2022], [2022]
+- [소셜 임팩트상], [2022 이화 사회적경제 창업경진대회], [2022]
+- [장려상, 특별상], [2022 ICT이노베이션스퀘어 제1회 SW개발 공모전], [2022]
 
 ### 💬 언어
 
