@@ -51,4 +51,4 @@
 - [Path Finder]: [The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.], [2022.07.29. ~ 2022.07.31.]
 - [KODY]: [외국인을 위한 한국 생활 코디네이터 애플리케이션], [2022.09.15. ~ 2022.12.01.]
 
-### [🎨Portfolio](https://bit.ly/juhye0n, "notion link")
+### [🎨 Portfolio](https://bit.ly/juhye0n, "notion link")
